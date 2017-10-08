@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.date          = '2016-06-15'
 
   s.add_dependency 'activerecord',      ['> 3.2']
-  s.add_dependency 'kaminari',          ['~> 0.16']
+  s.add_dependency 'kaminari',          ['~> 1.0.1']
   s.add_dependency 'coffee-rails',      ['> 3.2']
 
   s.add_development_dependency('rake',  '~> 10.1')
